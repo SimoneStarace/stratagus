@@ -33,4 +33,5 @@ classDiagram
 	}
 
 	CColor -- CUnitColors
+	link CColor "https://github.com/SimoneStarace/stratagus/blob/uml_diagrams/src/include/color.h"
 ```
